@@ -21,7 +21,7 @@
   </a>
 </p>
 
-[![GitHub Repo](https://img.shields.io/badge/Visit-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/devarchanadev/Integrated-Supply-Chain-Management)
+[![GitHub Repo](https://img.shields.io/badge/Visit-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/devarchanadev/Integrated-Supply-Chain-and-Financial-Management-System)
 
 [![Download Dataset](https://img.shields.io/badge/Download-Dataset-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com)
 
@@ -85,6 +85,6 @@ The **Integrated Supply Chain and Financial Management System** project undersco
 
 ---
 
-[![GitHub Repo](https://img.shields.io/badge/Visit-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/devarchanadev/Integrated-Supply-Chain-Management)
+[![GitHub Repo](https://img.shields.io/badge/Visit-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/devarchanadev/Integrated-Supply-Chain-and-Financial-Management-System)
 [![Download Dataset](https://img.shields.io/badge/Download-Dataset-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com)
 
